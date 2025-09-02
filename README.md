@@ -1,6 +1,3 @@
-# Tino_Randry
-My profil
-
 # 👋 Bonjour, je suis Tino  
 
 🎓 Étudiant en Télécommunications
