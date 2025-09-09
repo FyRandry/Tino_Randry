@@ -33,4 +33,4 @@
 
 ## 📫 Contact
 - 🌐 [FyRandry](https://github.com/FyRandry)
-- 📧 [Email](tinorandry@gmail.com)
+- 📧 [Email](mailto:"tinorandry@gmail.com")
