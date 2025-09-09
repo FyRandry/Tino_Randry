@@ -1,7 +1,7 @@
+# Hello World
 
-# 👋 Hi, I’m Tino
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=500&color=00ff99&center=true&width=400&lines=I%27m+Tino)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=500&color=00ff99&center=true&width=300&lines=I%27m+Tino)
 
 🎓 Telecommunications Student  
 💻 Passionate about IT, networking, and electronics  
